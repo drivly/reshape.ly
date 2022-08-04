@@ -9,6 +9,8 @@ To reshape data, start by defining the shape of the output data you want, and th
 $..book[0][category,author]
 ```
 
+<https://github.com/JSONPath-Plus/JSONPath>
+
 ## Credits
 
 It takes a lot of inspiration from [Select Transform](https://selecttransform.github.io/site/)
